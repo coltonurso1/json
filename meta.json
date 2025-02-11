@@ -1,0 +1,9 @@
+{
+    "name": "Happy Cat",
+    "symbol": "HCAT",
+    "description": "The happiest cat character to ever exist!",
+    "image": "https://your-domain.com/meme-logo.png",
+    "extensions": {
+        "website": "http://happycatcoin.com/"
+    }
+}
